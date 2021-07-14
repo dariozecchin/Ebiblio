@@ -1,0 +1,9 @@
+#cartaId{
+  padding-left:20%;
+  padding-right:20%;
+  margin:5%;
+}
+
+input[type="radio"] {
+  margin-right: 10%;
+}
